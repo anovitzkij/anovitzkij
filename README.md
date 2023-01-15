@@ -3,7 +3,7 @@
 "With great power comes great responsibility" 
 
 - 👶 Born in Ukraine in 1992
-- 🎓 Graduated from the National University of Science and Technology MISIS (Moscow, Russia) with a major in Physical Chemistry of processes and materials and specialist degree (5 years of study)
+- 🎓 Graduated from the National University of Science and Technology MISIS (Moscow, Russia) with a major in Physical Chemistry of processes and materials and a specialist degree (5 years of study)
 - 📘 PhD degree in Semiconductor Physics from Lomonosov Moscow State University (Moscow, Russia)
 - 👨‍🔬 Postdoctoral researcher at National Institute for Materials Science (Tsukuba, Japan)
 - 🔭 I’m currently working on [thermoelectric materials](http://thermoelectrics.matsci.northwestern.edu/thermoelectrics/history.html), such as [oxyselenides](https://en.wikipedia.org/wiki/Oxyselenide) and [skutterudites](https://en.wikipedia.org/wiki/Skutterudite)
