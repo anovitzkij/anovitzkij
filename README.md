@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning 日本語
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with work-life balance
-- 📫 How to reach me: novitskii.andrei@nims.go.jp
 - 😄 Pronouns: he/him
 - 💬 My [guide to thermoelectricity](https://tinyurl.com/ateguide) for students 
 - ⚡ Social media: @anovitzkij
